@@ -225,6 +225,9 @@ nav:
       - Secure an API with RBAC: tutorials/secure-an-api-with-role-based-access-control.md
   - API Platform Samples:
       - Samples Overview: samples/samples-overview.md
+  - Performance Test Results:
+     - Overview: api-platform-gateway/scalability-test-results.md
+
   - Developer Portal:
       - Theming Developer Portal:
           - Theming with AI: devportal/theming-devportal-with-ai.md
